@@ -1,0 +1,5 @@
+var display3 = $('.display-3')
+var lead = $(".lead")
+var currentDay = $("#currentDay")
+var container = $(".container")
+var todaysDate = moment().format('dddd, MMM Do YYYY')
